@@ -2,6 +2,7 @@
 <h3> My experience troublshooting issues within Proxmox </h3>
 
 <h2>Internet connectivity</h2>
+
 Issue
 - <b2> Failure logging in to Azure portal from Proxmox Windows Server VM (Domain Controller) <b2>
 

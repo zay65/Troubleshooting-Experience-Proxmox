@@ -24,7 +24,7 @@ Resolution:
 
 Prevention:
 
-- <b2> Document instruction in ticketing system to set Windows VM "Hardware" model to VirtIO <b2>
+- <b2> Document instruction in ticketing system to always set Windows VM "Hardware" model to VirtIO <b2>
 
 
 
